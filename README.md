@@ -10,5 +10,8 @@ Small aims:
 - [] Scrollable 
 - [] Looks good on mobile browsers 
 
-Preview (beta): [a page from my blog](https://loikein.github.io/2018/05/24/notes-intro-c-rmd/)  
-I deleted all the `.js` files for TOC, so it overflows. Bad.
+## Preview (beta)
+
+I deleted all the `.js` files for TOC, so it overflows when the contents are too long. Bad.
+
+[a page from my blog](https://htmlpreview.github.io/?https://github.com/loikein/clumsy-toc/blob/master/test-files/test-math.html)

@@ -14,4 +14,4 @@ Small aims:
 
 I deleted all the `.js` files for TOC, so it overflows when the contents are too long. Bad.
 
-[a page from my blog](https://htmlpreview.github.io/?https://github.com/loikein/clumsy-toc/blob/master/test-files/test-math.html)
+[a page from my blog](https://htmlpreview.github.io/?https://github.com/loikein/clumsy-toc/blob/master/test-files/test.html)

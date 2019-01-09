@@ -129,3 +129,17 @@
 	padding-left: calc(4em - 1px);
 	font-weight: normal;
 }
+
+@media (max-width: 1200px) {
+	#TOC{
+		left: unset;
+		bottom: 1vh;
+		right: 1vh;
+	}
+}
+
+@media (max-width: 700px) {
+	#TOC{
+		display: none;
+	}
+}

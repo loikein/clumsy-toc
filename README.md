@@ -12,4 +12,4 @@ Small aims:
 
 ## Preview (beta)
 
-[a page from my blog](https://loikein.github.io/2019/01/05/notes-stat1/)
+[a post of my blog](https://loikein.github.io/2019/01/05/notes-stat1/)

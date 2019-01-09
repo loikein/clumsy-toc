@@ -7,7 +7,7 @@ Ultimate aim: transform into a component that can be pasted to any website, resp
 Small aims:
 
 - [] Click to fold and open 
-- [] Scrollable 
+- [X] Scrollable 
 - [] Looks good on mobile browsers 
 
 ## Preview (beta)
